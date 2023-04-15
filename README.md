@@ -28,7 +28,7 @@ make re #runs fclean and all
 make qt #Compiles with QT for Package Manager
 ```
 
-<img src="https://github.com/Fatihcill/UDP-Chat/blob/main/test.gif" width="540" height="360" />
+<img src="https://github.com/Fatihcill/UDP-Chat/blob/main/test.gif"/>
 
 ### Usage
 
@@ -57,4 +57,4 @@ to log out
 /logout
 ```
 
-<img src="https://github.com/Fatihcill/UDP-Chat/blob/main/test_qt.gif" width="540" height="360" />
+<img src="https://github.com/Fatihcill/UDP-Chat/blob/main/test_qt.gif"/>
